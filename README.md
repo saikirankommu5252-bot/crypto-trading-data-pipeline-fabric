@@ -5,7 +5,7 @@ An end-to-end cloud Data Engineering project ingesting live market data from the
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard_screenshot.png.png)
 
 ---
 
